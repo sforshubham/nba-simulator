@@ -7,7 +7,7 @@ This is a web application which shows "real-time" scores and statistics of NBA. 
 ### Installation
 
 1. Clone the repo
-	- git clone [repo_URL]
+	- git clone "https://github.com/sforshubham/nba-simulator.git"
 
 2. Update the composer to install related dependencies
 	- composer update
